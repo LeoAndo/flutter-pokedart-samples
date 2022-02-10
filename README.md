@@ -7,5 +7,6 @@ use [pokedart api](https://github.com/prathanbomb/pokedart)
 
 # refs
 https://pub.dev/documentation/pokeapi/latest/<br>
+https://pub.dev/packages/pokeapi_dart<br>
 https://github.com/prathanbomb/pokedart/blob/master/lib/main.dart<br>
 

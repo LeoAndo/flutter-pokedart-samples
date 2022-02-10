@@ -16,7 +16,8 @@ flutter run --no-sound-null-safety
 
 | iPhone 13 Pro OS15.2 | Pixel 4 OS12 |
 |:---|:---:|
-|<img src="https://user-images.githubusercontent.com/16476224/153508241-81a0be59-df48-4282-86bf-d1e91736eded.gif" width=320 /> |<img src="" width=320 /> |
+|<img src="https://user-images.githubusercontent.com/16476224/153508241-81a0be59-df48-4282-86bf-d1e91736eded.gif" width=320 /> |<img src="https://user-images.githubusercontent.com/16476224/153509220-d77d3441-0782-4bb5-8001-90b0a017e9e3.gif" width=320 /> |
+
 
 
 # refs

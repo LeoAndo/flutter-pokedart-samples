@@ -10,6 +10,10 @@ Execute the following command to launch the application.<br>
 flutter run --no-sound-null-safety
 ```
 
+# use Library Version
+
+https://github.com/LeoAndo/flutter-pokedart-samples/blob/main/poke_dart_sample01/pubspec.yaml#L37<br>
+
 # [For Native Android](https://github.com/LeoAndo/andorid-pokekotlin-samples)
 
 # capture

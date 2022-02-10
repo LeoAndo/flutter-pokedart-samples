@@ -25,7 +25,9 @@ class _PokemonPageState extends State<PokemonPage> {
 
   _onPressedAddButton() {
     if (textEditingController.text.isEmpty) return;
-    _fetchPokemonById(int.parse(textEditingController.text));
+    var pokemonId = int.tryParse(textEditingController.text);
+    if (pokemonId == null) return;
+    _fetchPokemonById(pokemonId);
   }
 
   @override

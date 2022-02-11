@@ -27,5 +27,5 @@ https://github.com/LeoAndo/flutter-pokedart-samples/blob/main/poke_dart_sample01
 # refs
 https://pub.dev/documentation/pokeapi/latest/<br>
 https://pub.dev/packages/pokeapi_dart<br>
-https://github.com/prathanbomb/pokedart/blob/master/lib/main.dart<br>
+https://github.com/chulwoo-park/pokeapi_dart/blob/main/example/lib/example.dart<br>
 
